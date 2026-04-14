@@ -1,0 +1,11 @@
+# Local properties for Metrolist development
+# Copy this file to local.properties and fill in your API keys.
+# local.properties is excluded from version control (.gitignore).
+
+# Android SDK location - usually set automatically by Android Studio
+# sdk.dir=/path/to/your/Android/sdk
+
+# LastFM API credentials (optional - app builds without these, but LastFM features won't work)
+# Get your credentials at: https://www.last.fm/api/account/create
+# LASTFM_API_KEY=your_lastfm_api_key_here
+# LASTFM_SECRET=your_lastfm_secret_here
